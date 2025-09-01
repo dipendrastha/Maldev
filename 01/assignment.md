@@ -18,6 +18,7 @@ Malicious Software created to intentionally cause damage to a computer, network,
 ## Tools installed
 
 - VirtualBox
+- compiler for C(g++, gcc)
 - Visual Code
 - Procmon
 - Process hacker
