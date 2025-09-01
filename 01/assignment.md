@@ -14,3 +14,10 @@ Malicious Software created to intentionally cause damage to a computer, network,
 | **Rootkit** | System exploit | Hidden access/control |
 | **Keylogger** | Malware, trojans | Credential theft |
 | **Botnet** | Malware infections | DDoS, mass attacks |
+
+## Tools installed
+
+- VirtualBox
+- Visual Code
+- Procmon
+- Process hacker
