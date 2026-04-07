@@ -1,1 +1,1 @@
-create a new branch "hello" and create a file there "hello.txt" with contents "hello world"
+view_text_website('https://google.com')
